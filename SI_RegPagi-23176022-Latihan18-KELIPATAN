@@ -1,0 +1,33 @@
+/*
+
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+*/
+package latihan;
+/**
+*
+
+@author LENOVO
+
+NAMA: Hasna Durrotul Hikmah
+
+KELAS: PBO1
+
+NIM: 23176022
+
+PRODI: Sistem Informasi
+
+SEMESTER: 3
+
+Deskripsi Program: KELIPATAN
+*/
+public class latihan18 {
+
+public static void main(String[] args) {
+double angka = 3.5;
+while (angka <= 35){
+System.out.println(angka);
+angka += 3.5;
+}
+}
+}
